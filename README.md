@@ -1,5 +1,5 @@
 # LLM_programming
-keep your KV (system_prompt) in memory is all you needed
+keep your (very long system prompt) KV in memory is all you needed
 
 ```
 AutoGPT minecraft system prompt 2305.16291.pdf
